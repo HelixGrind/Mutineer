@@ -13,11 +13,6 @@
         }
     }
 
-    //public class Collaborator : ICollaborator
-    //{
-    //    public string PerformAction() => "BAR";
-    //}
-
     public interface ICollaborator
     {
         string PerformAction();
